@@ -1,15 +1,15 @@
 # TouchScreenSharp
 Touch screen support on Linux for .Net  
-.NET Linux上的触摸屏支持
+提供.NET在Linux上的触摸屏支持
 
 [![NuGet version (TouchScreenSharp)](https://img.shields.io/nuget/v/TouchScreenSharp.svg?style=flat)](https://www.nuget.org/packages/TouchScreenSharp/)
 
 ## What is this 是什么
-This is a touchscreen adapter for C# to do basic touch inputs. 
-这是为C#设计的基础触摸输入库，可以完成基础的触摸输入。
+This is a touchscreen adapter for .NET to do basic touch inputs.   
+这是为.NET设计的基础触摸输入库，可以完成基础的触摸输入。
 
 ## Setup 安装
-Just import the nuget package of this repo into your dotnet project.
+Just import the nuget package of this repo into your dotnet project.  
 把这个项目的nuget包导入到你的.net项目里就完成了。
 
 ## How to use 如何使用
